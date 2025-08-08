@@ -1,0 +1,21 @@
+{
+    "company_name": "Generic Technologies",
+    "website": "www.gen.tech",
+    "phone": "+49 40 22887886",
+    "email": "scaileyatharth@gmail.com",
+    "password": "SCAile961@^&",
+    "address": {
+        "street": "Jungfrauenthal",
+        "house_number": "5",
+        "postal_code": "20149",
+        "city": "Hamburg",
+        "country": "Germany"
+    },
+    "contact_person": {
+        "first_name": "Clint",
+        "last_name": "Barton"
+    },
+    "description": "Generic Tech is revolutionizing the SME sector with AI in marketing...",
+    "short_description": "We build AI marketing agent",
+    "category": "Dienstleister"
+}

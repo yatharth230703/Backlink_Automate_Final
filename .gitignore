@@ -1,0 +1,11 @@
+.env
+__pycache__/
+token.pickle
+gmail_test_ID.json
+credentials.json
+scroll_output_save/
+myenv/
+ocr_debug_output/
+curr-browser-profile/
+annotated_screenshots/
+debug_ss/
